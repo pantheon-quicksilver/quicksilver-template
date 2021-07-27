@@ -1,0 +1,10 @@
+{
+  "name": "pantheon-quicksilver/quicksilver-template",
+  "description": "A template for creating new Quicksilver scripts installed via Composer.",
+  "type": "quicksilver-script",
+  "version": "1.0.2",
+  "require": {
+    "composer/installers": "~1.0"
+  },
+  "license": "MIT"
+}
